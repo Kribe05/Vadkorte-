@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Bernecebaráti – stilizált térképi ábra</title>
+  <desc id="desc">Az Ipoly és a Börzsöny közötti Bernecebaráti helyzetét jelölő dekoratív ábra. Nem navigációs térkép.</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f9f1df"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient>
+    <pattern id="grain" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="4" r=".7" fill="#77664c" opacity=".11"/><circle cx="10" cy="9" r=".5" fill="#77664c" opacity=".09"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="15"/></filter>
+  </defs>
+  <rect x="3" y="3" width="954" height="534" rx="24" fill="url(#paper)" stroke="#b39d78" stroke-width="2"/>
+  <rect x="3" y="3" width="954" height="534" rx="24" fill="url(#grain)"/>
+  <path d="M30 341Q148 222 283 258T514 289Q618 236 744 274T942 236V530H30Z" fill="#afbb92" opacity=".28"/>
+  <path d="M387 500Q444 336 625 316T948 214V526H387Z" fill="#788f67" opacity=".13"/>
+  <path d="M24 123Q162 155 221 121T391 135Q478 108 562 132T750 110Q842 123 947 87" fill="none" stroke="#b3c5b5" stroke-width="16" opacity=".55"/>
+  <path d="M24 123Q162 155 221 121T391 135Q478 108 562 132T750 110Q842 123 947 87" fill="none" stroke="#7d9ba4" stroke-width="3" opacity=".8"/>
+  <path d="M57 192Q214 187 308 215T499 207Q603 196 719 185T925 210" fill="none" stroke="#c5ad82" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round" opacity=".75"/>
+  <path d="M135 209 187 191 229 207 253 164 302 193 347 200 392 214 431 197 462 169 497 224 523 292 551 304 583 286 610 297 638 254 676 264 713 325 713 358 739 376 718 394 740 419 684 433 623 414 571 382 522 368 478 338 423 324 376 278 348 245 302 229 252 217 202 223 173 212Z" fill="#91a979" opacity=".24" stroke="#35523a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M135 209 187 191 229 207 253 164 302 193 347 200 392 214 431 197 462 169 497 224 523 292 551 304 583 286 610 297 638 254 676 264 713 325 713 358 739 376 718 394 740 419 684 433 623 414 571 382 522 368 478 338 423 324 376 278 348 245 302 229 252 217 202 223 173 212Z" fill="none" stroke="#f8f0db" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#435b3e" opacity=".55"><path d="m560 406 8-30 8 30h-5v12h-6v-12zm29-19 7-25 7 25h-4v10h-6v-10zm45 15 9-34 9 34h-6v12h-6v-12zm50-67 7-26 7 26h-4v11h-6v-11zm-227-39 8-28 8 28h-5v11h-6v-11z"/></g>
+  <circle cx="354" cy="239" r="39" fill="#7b3f29" opacity=".15" filter="url(#soft)"/>
+  <path d="M354 195c-21 0-38 17-38 38 0 28 38 71 38 71s38-43 38-71c0-21-17-38-38-38z" fill="#914e32" stroke="#f9ecce" stroke-width="4"/>
+  <circle cx="354" cy="232" r="12" fill="#f8e9c8"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2e4433">
+    <text x="52" y="73" font-size="21" letter-spacing="5" fill="#846448">A BÖRZSÖNY KAPUJÁBAN</text>
+    <text x="405" y="251" font-size="34" font-weight="bold">Bernecebaráti</text>
+    <text x="409" y="279" font-size="17" letter-spacing="2" fill="#795b45">VADKÖRTE VENDÉGHÁZ</text>
+    <text x="742" y="93" font-size="19" font-style="italic" fill="#667f80">Ipoly</text>
+    <text x="735" y="461" font-size="21" font-style="italic" fill="#506649">Börzsöny</text>
+  </g>
+  <path d="M57 475h64m-53-9v18m43-18v18" stroke="#6c7658" stroke-width="2" opacity=".8"/>
+  <text x="57" y="505" font-family="Georgia, serif" font-size="13" fill="#765f48" letter-spacing="2">LASSULJ LE. MEGÉRKEZTÉL.</text>
+</svg>
